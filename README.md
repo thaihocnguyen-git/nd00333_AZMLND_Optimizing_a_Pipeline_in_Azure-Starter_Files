@@ -43,5 +43,4 @@ The model of automl is better than the sklearn pipeline a little bit. About the 
 * For the automl, I think I can analyzed the model explaination to get some insight about the importance variable, the data. So that I can have my own preprocesses. With the additional preprocess, I think the accuracy as well as the training time will be improved
 
 ## Proof of cluster clean up
-**If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
-**Image of cluster marked for deletion**
+I did by using `cluster.delete()` in the notebook
